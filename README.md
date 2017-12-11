@@ -61,7 +61,7 @@ $client = new Shopify\Shopify($_SESSION['shopify_shop_domain'], $APP_API_KEY, $A
 $client->getWebhooks();
 ```
 
--add webhook
+- add webhook
 ```php
 $client = new Shopify\Shopify($_SESSION['shopify_shop_domain'], $APP_API_KEY, $APP_SECRET);
 $type = 'collections/create'; //topics  [see:https://help.shopify.com/api/reference/webhook]
