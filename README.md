@@ -47,7 +47,7 @@ else {
 }
 ```
 
-### Webhooks
+### Method
 
 - get shop info
 ```php
