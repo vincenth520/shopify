@@ -3,7 +3,7 @@
 ## Setup/Installation
 You can install it on packgist
 
-`composer require donutdan4114/shopify`
+`composer require vincenth520/shopify`
 
 
 You must first setup a public app. View documentation. You need an authorization URL.
